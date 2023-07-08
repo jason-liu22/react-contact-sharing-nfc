@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="./public/view.png" alt="Logo" width="100%" height="100%">
-  <p align="center">View Page</p>
+  <p align="center">View Page</p>``
   <img src="./public/nfc-qrcode.png" alt="Logo" width="100%" height="100%">
   <p align="center">NFC and Qrcode</p>
   <img src="./public/setting.png" alt="Logo" width="100%" height="100%">
@@ -37,7 +37,7 @@
 - How to use [Context](https://reactjs.org/docs/context.html) and its provider
 - How to customize default theme of [MUI](https://mui.com/)
 
-## Third Party libraries used except for React and RTK
+## Third Party libraries used except for React
 
 - [firebase](https://firebase.google.com/)
 - [react-router-dom@v6.5](https://reactrouter.com/en/main)
