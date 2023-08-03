@@ -33,6 +33,8 @@
 
 ## Features
 
+- How to struct a react application
+- How to architect authentication, layout, and protected routes
 - How to create and use [Custom Hooks](https://reactjs.org/docs/hooks-custom.html)
 - How to use [Context](https://reactjs.org/docs/context.html) and its provider
 - How to customize default theme of [MUI](https://mui.com/)
